@@ -1,4 +1,5 @@
-## Oi, seja bem vindo ao meu GitHub  👋
+## Oi, seja bem vindo ao meu GitHub  👋 :brazil:	
+## Hi, welcome to my profile on GitHub
 
 <div align="center">
   <a href="https://github.com/ViniciusPolito">
