@@ -1,4 +1,4 @@
-# Hi there! I'm Vinícius Barbosa 👋
+# Hi there! I'm Vinícius Polito 👋
 
 Welcome to my GitHub profile! I'm a software engineer passionate about technology, data, artificial intelligence, and marketing. I am always looking for new challenges and opportunities to learn and grow.
 
