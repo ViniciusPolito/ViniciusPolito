@@ -55,8 +55,8 @@ Governance:       (Suggested: Amundsen or DataHub in future stack)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbarpo&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarpo&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPolito&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPolito&layout=compact&theme=radical"/>
 </p>
 
 ---
