@@ -25,16 +25,16 @@ I'm a **Data Engineer** passionate about building high-performance data and AI i
 ### 🧠 Core Skills Snapshot
 
 ```yaml
-Languages:        Python · Java · SQL · C · C++ · Bash
-Cloud Platforms:  GCP · Azure (Basic AWS exposure recommended)
+Languages:        Python · Java · SQL · Bash
+Cloud Platforms:  GCP · Azure
 Data Processing:  Airflow · Apache Beam · Pandas · Polars · LangChain
 Data Storage:     BigQuery · PostgreSQL · MongoDB · OracleDB · Firestore
 Pipeline Tools:   SFTP · REST · JSONL · Cloud Functions · Cloud Run
 AI/ML:            Vertex AI · CrewAI · OpenAI API · RAG · Groq · Hugging Face
-DevOps:           GitHub Actions · Docker · Kubernetes · Terraform (learning)
+DevOps:           GitHub Actions · Docker · Kubernetes · Terraform
 Orchestration:    Airflow · Cloud Composer · CI/CD pipelines
-Observability:    Logging · Monitoring · Data validation (suggest: Great Expectations)
-Governance:       (Suggested: Amundsen or DataHub in future stack)
+Observability:    Logging · Monitoring · Data validation
+Governance:       DataHub
 ```
 
 ---
